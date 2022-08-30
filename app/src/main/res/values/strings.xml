@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JavaGPSDemo</string>
+    <string name="gpsdemo">GPSDemo</string>
+    <string name="get_current_location">Get current location</string>
+    <string name="latitude">"Latitude: "</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="viewOnMap">View on map</string>
+</resources>
